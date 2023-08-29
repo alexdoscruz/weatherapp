@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Sofia", sans-serif;
+  }
+
+body{
+    background: #2B4162;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
+.nav{
+    padding: 2em 3em;
+}
+
+.nav a{
+    text-decoration: none;
+    justify-content: end;
+    align-items: center;
+    gap: 3em;
+    display: flex;
+    color: white;
+    
+    
+}
+
+
+.salt{
+    text-align: center;
+    justify-content: center;
+    margin-top: 200px;
+    font-size: 30px;
+}
+
